@@ -1,0 +1,28 @@
+Command line:
+   compressor4to2_isim_beh.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  54479
+
+Tue Mar 23 10:25:28 2021
+
+
+ Elaboration Time: 0.21875 sec
+
+ Current Memory Usage: 671.498 Meg
+
+ Total Signals          : 26
+ Total Nets             : 22
+ Total Signal Drivers   : 10
+ Total Blocks           : 4
+ Total Primitive Blocks : 3
+ Total Processes        : 11
+ Total Traceable Variables  : 18
+ Total Scalar Nets and Variables : 102
+
+ Total Simulation Time: 0.234375 sec
+
+ Current Memory Usage: 671.498 Meg
+
+Tue Mar 23 10:28:36 2021
+

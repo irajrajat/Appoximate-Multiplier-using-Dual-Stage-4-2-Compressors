@@ -1,0 +1,5 @@
+verilog work "halfadder.v"
+verilog work "fulladder.v"
+verilog work "partialproduct.v"
+verilog work "compressor4to2.v"
+verilog work "extension8bit.v"

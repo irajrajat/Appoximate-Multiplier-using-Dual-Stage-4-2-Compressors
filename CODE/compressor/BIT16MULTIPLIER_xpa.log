@@ -1,0 +1,21 @@
+Creating log file D:\2020\TITLE 
+IDFOLDERS\SOURCEFILE_YMTS0224\CODE_YMTS0224\compressorproject\compressor\BIT16MU
+LTIPLIER_xpa.log.
+Loading device for application Rf_Device from file '7vx330t.nph' in environment
+C:\Xilinx\14.7\ISE_DS\ISE\.
+   "BIT16MULTIPLIER" is an NCD, version 3.2, device xc7vx330t, package ffg1157,
+speed -2
+
+INFO:Power:1693 - 
+   --------------------------------------------------------------
+                         The power estimate will be calculated using PRODUCTION
+   data.
+   --------------------------------------------------------------
+
+Design load 20% completeDesign load 25% completeDesign load 30% completeDesign load 60% completeDesign load 95% completeDesign load 100% completeRunning Vector-less Activity Propagation
+......
+Finished Running Vector-less Activity Propagation
+Finished Running Vector-less Activity Propagation 0 secs 
+
+Design 'BIT16MULTIPLIER.ncd' and constraints 'BIT16MULTIPLIER.pcf' opened successfully
+

@@ -1,0 +1,12 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Rajat Raj/Desktop/4th SEM Notes/Approximate Multiplier Design/TK11887/existing method/ha.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module ha
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Rajat Raj/Desktop/4th SEM Notes/Approximate Multiplier Design/TK11887/existing method/fa.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module fa
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Rajat Raj/Desktop/4th SEM Notes/Approximate Multiplier Design/TK11887/existing method/conventional_4to2compressor.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module conventional_4to2compressor
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Rajat Raj/Desktop/4th SEM Notes/Approximate Multiplier Design/TK11887/existing method/exact_16x16_mul.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module exact_16x16_mul
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Rajat Raj/Desktop/4th SEM Notes/Approximate Multiplier Design/TK11887/existing method/exist_tb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module exist_tb
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Rajat Raj/Desktop/4th SEM Notes/Approximate Multiplier Design/TK11887/existing method/Existing Method/Existing Method.sim/sim_1/behav/glbl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module glbl

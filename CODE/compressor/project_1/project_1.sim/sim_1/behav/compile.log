@@ -1,0 +1,24 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Rajat Raj/Desktop/4th SEM Notes/TK11887/CODE/compressor/multiplier8x8.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module multiplier8x8
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Rajat Raj/Desktop/4th SEM Notes/TK11887/CODE/compressor/partialproduct.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module partialproduct
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Rajat Raj/Desktop/4th SEM Notes/TK11887/CODE/compressor/MULTIPLIER8X82.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module MULTIPLIER8X82
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Rajat Raj/Desktop/4th SEM Notes/TK11887/CODE/compressor/halfadder.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module halfadder
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Rajat Raj/Desktop/4th SEM Notes/TK11887/CODE/compressor/fulladder.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module fulladder
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Rajat Raj/Desktop/4th SEM Notes/TK11887/CODE/compressor/partialproduct16bit.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module partial16bit
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Rajat Raj/Desktop/4th SEM Notes/TK11887/CODE/compressor/Highspeed4to2compressor.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Highspeed4to2compressor
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Rajat Raj/Desktop/4th SEM Notes/TK11887/CODE/compressor/finaladder.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module finaladder
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Rajat Raj/Desktop/4th SEM Notes/TK11887/CODE/compressor/exactcompressor.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module exactcompressor
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Rajat Raj/Desktop/4th SEM Notes/TK11887/CODE/compressor/Dualstagecompressor.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Dualstagecompressor
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Rajat Raj/Desktop/4th SEM Notes/TK11887/CODE/compressor/bit16multiplier.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module BIT16MULTIPLIER
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Rajat Raj/Desktop/4th SEM Notes/TK11887/CODE/compressor/project_1/project_1.sim/sim_1/behav/glbl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module glbl

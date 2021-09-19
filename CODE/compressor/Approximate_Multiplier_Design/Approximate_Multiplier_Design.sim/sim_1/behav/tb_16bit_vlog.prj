@@ -1,0 +1,21 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  "../../../../multiplier8x8.v"
+verilog xil_defaultlib  "../../../../partialproduct.v"
+verilog xil_defaultlib  "../../../../MULTIPLIER8X82.v"
+verilog xil_defaultlib  "../../../../partialproduct16bit.v"
+verilog xil_defaultlib  "../../../../halfadder.v"
+verilog xil_defaultlib  "../../../../fulladder.v"
+verilog xil_defaultlib  "../../../../Highspeed4to2compressor.v"
+verilog xil_defaultlib  "../../../../finaladder.v"
+verilog xil_defaultlib  "../../../../exactcompressor.v"
+verilog xil_defaultlib  "../../../../Dualstagecompressor.v"
+verilog xil_defaultlib  "../../../../bit16multiplier.v"
+verilog xil_defaultlib  "../../../Approximate_Multiplier_Design.srcs/sim_1/new/tb_bit8.v"
+verilog xil_defaultlib  "../../../Approximate_Multiplier_Design.srcs/sim_1/new/tb_bit8_2.v"
+verilog xil_defaultlib  "../../../Approximate_Multiplier_Design.srcs/sim_1/new/tb_16bit.v"
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

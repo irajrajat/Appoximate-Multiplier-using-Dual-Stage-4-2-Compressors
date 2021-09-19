@@ -1,0 +1,10 @@
+Command line:
+   multiplier8x8_isim_beh.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  53850
+
+Mon Jul 05 17:12:51 2021
+
+
+ Elaboration Time: 0.109201 sec

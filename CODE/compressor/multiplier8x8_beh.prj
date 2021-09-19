@@ -1,0 +1,6 @@
+verilog work "partialproduct.v"
+verilog work "Highspeed4to2compressor.v"
+verilog work "halfadder.v"
+verilog work "fulladder.v"
+verilog work "multiplier8x8.v"
+verilog work "C:/Xilinx/14.7/ISE_DS/ISE//verilog/src/glbl.v"

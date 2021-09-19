@@ -1,0 +1,10 @@
+#-----------------------------------------------------------
+# Vivado v2014.4 (64-bit)
+# SW Build 1071353 on Tue Nov 18 18:24:04 MST 2014
+# IP Build 1070531 on Tue Nov 18 01:10:18 MST 2014
+# Start of session at: Mon Jul 26 16:46:48 2021
+# Process ID: 17576
+# Log file: C:/Users/Rajat Raj/Desktop/4th SEM Notes/Approximate Multiplier Design/TK11887/existing method/Existing Method/Existing Method.runs/synth_1/exact_16x16_mul.vds
+# Journal file: C:/Users/Rajat Raj/Desktop/4th SEM Notes/Approximate Multiplier Design/TK11887/existing method/Existing Method/Existing Method.runs/synth_1\vivado.jou
+#-----------------------------------------------------------
+source exact_16x16_mul.tcl

@@ -1,0 +1,8 @@
+verilog work "halfadder.v"
+verilog work "fulladder.v"
+verilog work "partialproduct16bit.v"
+verilog work "Highspeed4to2compressor.v"
+verilog work "finaladder.v"
+verilog work "exactcompressor.v"
+verilog work "Dualstagecompressor.v"
+verilog work "bit16multiplier.v"

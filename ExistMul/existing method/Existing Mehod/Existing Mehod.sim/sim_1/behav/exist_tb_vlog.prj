@@ -1,0 +1,12 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  "../../../../ha.v"
+verilog xil_defaultlib  "../../../../fa.v"
+verilog xil_defaultlib  "../../../../conventional_4to2compressor.v"
+verilog xil_defaultlib  "../../../../exact_16x16_mul.v"
+verilog xil_defaultlib  "../../../../exist_tb.v"
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

@@ -1,0 +1,10 @@
+#-----------------------------------------------------------
+# Vivado v2014.4 (64-bit)
+# SW Build 1071353 on Tue Nov 18 18:24:04 MST 2014
+# IP Build 1070531 on Tue Nov 18 01:10:18 MST 2014
+# Start of session at: Fri Jul 23 10:00:18 2021
+# Process ID: 11572
+# Log file: C:/Users/Rajat Raj/Desktop/4th SEM Notes/TK11887/CODE/compressor/project_1/project_1.runs/synth_1/multiplier8x8.vds
+# Journal file: C:/Users/Rajat Raj/Desktop/4th SEM Notes/TK11887/CODE/compressor/project_1/project_1.runs/synth_1\vivado.jou
+#-----------------------------------------------------------
+source multiplier8x8.tcl

@@ -1,0 +1,28 @@
+Command line:
+   BIT16MULTIPLIER_isim_beh.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  55600
+
+Tue Mar 23 10:57:50 2021
+
+
+ Elaboration Time: 0.171875 sec
+
+ Current Memory Usage: 671.588 Meg
+
+ Total Signals          : 729
+ Total Nets             : 1059
+ Total Signal Drivers   : 481
+ Total Blocks           : 169
+ Total Primitive Blocks : 167
+ Total Processes        : 482
+ Total Traceable Variables  : 18
+ Total Scalar Nets and Variables : 1139
+
+ Total Simulation Time: 0.234375 sec
+
+ Current Memory Usage: 671.588 Meg
+
+Tue Mar 23 11:00:11 2021
+

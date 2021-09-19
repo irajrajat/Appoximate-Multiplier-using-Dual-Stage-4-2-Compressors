@@ -1,0 +1,6 @@
+verilog work "ha.v"
+verilog work "fa.v"
+verilog work "conventional_4to2compressor.v"
+verilog work "exact_16x16_mul.v"
+verilog work "exist_tb.v"
+verilog work "C:/Xilinx/14.7/ISE_DS/ISE//verilog/src/glbl.v"

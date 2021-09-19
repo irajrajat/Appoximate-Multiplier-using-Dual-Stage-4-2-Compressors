@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GenRun Id="impl_1" LaunchPart="xc7a50ticsg325-1L" LaunchTime="1627014658">
+  <File Type="PWROPT-DCP" Name="multiplier8x8_pwropt.dcp"/>
+  <File Type="RUN-CONSTRS" Name="$PDATADIR/runs/impl_1/constrs_in.xml"/>
+  <File Type="PLACE-DCP" Name="multiplier8x8_placed.dcp"/>
+  <File Type="RUN-SRCS" Name="$PDATADIR/runs/impl_1/sources.xml"/>
+  <File Type="PWROPT-DRC" Name="multiplier8x8_drc_pwropted.rpt"/>
+  <File Type="ROUTE-TIMINGSUMMARY" Name="multiplier8x8_timing_summary_routed.rpt"/>
+  <File Type="PA-TCL" Name="multiplier8x8.tcl"/>
+  <File Type="RUN-STRAT" Name="$PDATADIR/runs/impl_1/impl_1.psg"/>
+  <File Type="OPT-DCP" Name="multiplier8x8_opt.dcp"/>
+  <File Type="OPT-DRC" Name="multiplier8x8_drc_opted.rpt"/>
+  <File Type="PLACE-IO" Name="multiplier8x8_io_placed.rpt"/>
+  <File Type="PLACE-CLK" Name="multiplier8x8_clock_utilization_placed.rpt"/>
+  <File Type="PLACE-UTIL" Name="multiplier8x8_utilization_placed.rpt"/>
+  <File Type="PLACE-UTIL-PB" Name="multiplier8x8_utilization_placed.pb"/>
+  <File Type="PLACE-CTRL" Name="multiplier8x8_control_sets_placed.rpt"/>
+  <File Type="PLACE-SIMILARITY" Name="multiplier8x8_incremental_reuse_placed.rpt"/>
+  <File Type="PLACE-PRE-SIMILARITY" Name="multiplier8x8_incremental_reuse_pre_placed.rpt"/>
+  <File Type="POSTPLACE-PWROPT-DCP" Name="multiplier8x8_postplace_pwropt.dcp"/>
+  <File Type="PHYSOPT-DCP" Name="multiplier8x8_physopt.dcp"/>
+  <File Type="PHYSOPT-DRC" Name="multiplier8x8_drc_physopted.rpt"/>
+  <File Type="ROUTE-DCP" Name="multiplier8x8_routed.dcp"/>
+  <File Type="ROUTE-DRC" Name="multiplier8x8_drc_routed.rpt"/>
+  <File Type="ROUTE-DRC-PB" Name="multiplier8x8_drc_routed.pb"/>
+  <File Type="ROUTE-PWR" Name="multiplier8x8_power_routed.rpt"/>
+  <File Type="ROUTE-PWR-SUM" Name="multiplier8x8_power_summary_routed.pb"/>
+  <File Type="ROUTE-STATUS" Name="multiplier8x8_route_status.rpt"/>
+  <File Type="ROUTE-STATUS-PB" Name="multiplier8x8_route_status.pb"/>
+  <File Type="ROUTE-TIMING-PB" Name="multiplier8x8_timing_summary_routed.pb"/>
+  <File Type="ROUTE-TIMING-RPX" Name="multiplier8x8_timing_summary_routed.rpx"/>
+  <File Type="ROUTE-SIMILARITY" Name="multiplier8x8_incremental_reuse_routed.rpt"/>
+  <File Type="POSTROUTE-PHYSOPT-DCP" Name="multiplier8x8_postroute_physopt.dcp"/>
+  <File Type="RDI-RDI" Name="multiplier8x8.vdi"/>
+  <File Type="POSTROUTE-PHYSOPT-TIMING" Name="multiplier8x8_timing_summary_postroute_physopted.rpt"/>
+  <File Type="POSTROUTE-PHYSOPT-TIMING-PB" Name="multiplier8x8_timing_summary_postroute_physopted.pb"/>
+  <File Type="POSTROUTE-PHYSOPT-TIMING-RPX" Name="multiplier8x8_timing_summary_postroute_physopted.rpx"/>
+  <File Type="BG-BIT" Name="multiplier8x8.bit"/>
+  <File Type="BG-BIN" Name="multiplier8x8.bin"/>
+  <File Type="BITSTR-MSK" Name="multiplier8x8.msk"/>
+  <File Type="BITSTR-RBT" Name="multiplier8x8.rbt"/>
+  <File Type="BITSTR-NKY" Name="multiplier8x8.nky"/>
+  <File Type="BITSTR-BMM" Name="multiplier8x8_bd.bmm"/>
+  <File Type="BITSTR-MMI" Name="multiplier8x8.mmi"/>
+  <File Type="BITSTR-SYSDEF" Name="multiplier8x8.sysdef"/>
+  <File Type="BG-BGN" Name="multiplier8x8.bgn"/>
+  <File Type="BG-DRC" Name="multiplier8x8.drc"/>
+  <File Type="WBT-USG" Name="usage_statistics_webtalk.html"/>
+  <FileSet Name="sources" Type="DesignSrcs" RelSrcDir="$PSRCDIR/sources_1">
+    <Filter Type="Srcs"/>
+    <File Path="$PPRDIR/../multiplier8x8.v">
+      <FileInfo>
+        <Attr Name="Library" Val="xil_defaultlib"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PPRDIR/../partialproduct.v">
+      <FileInfo>
+        <Attr Name="Library" Val="xil_defaultlib"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PPRDIR/../MULTIPLIER8X82.v">
+      <FileInfo>
+        <Attr Name="Library" Val="xil_defaultlib"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PPRDIR/../halfadder.v">
+      <FileInfo>
+        <Attr Name="Library" Val="xil_defaultlib"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PPRDIR/../fulladder.v">
+      <FileInfo>
+        <Attr Name="Library" Val="xil_defaultlib"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PPRDIR/../partialproduct16bit.v">
+      <FileInfo>
+        <Attr Name="Library" Val="xil_defaultlib"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PPRDIR/../Highspeed4to2compressor.v">
+      <FileInfo>
+        <Attr Name="Library" Val="xil_defaultlib"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PPRDIR/../finaladder.v">
+      <FileInfo>
+        <Attr Name="Library" Val="xil_defaultlib"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PPRDIR/../exactcompressor.v">
+      <FileInfo>
+        <Attr Name="Library" Val="xil_defaultlib"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PPRDIR/../Dualstagecompressor.v">
+      <FileInfo>
+        <Attr Name="Library" Val="xil_defaultlib"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PPRDIR/../bit16multiplier.v">
+      <FileInfo>
+        <Attr Name="Library" Val="xil_defaultlib"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PPRDIR/import_ise_summary.txt"/>
+    <Config>
+      <Option Name="DesignMode" Val="RTL"/>
+      <Option Name="TopModule" Val="multiplier8x8"/>
+    </Config>
+  </FileSet>
+  <FileSet Name="constrs_in" Type="Constrs" RelSrcDir="$PSRCDIR/constrs_1">
+    <Filter Type="Constrs"/>
+    <Config>
+      <Option Name="ConstrsType" Val="XDC"/>
+    </Config>
+  </FileSet>
+  <Strategy Version="1" Minor="2">
+    <StratHandle Name="Vivado Implementation Defaults" Flow="Vivado Implementation 2014"/>
+    <Step Id="init_design"/>
+    <Step Id="opt_design"/>
+    <Step Id="power_opt_design"/>
+    <Step Id="place_design"/>
+    <Step Id="post_place_power_opt_design"/>
+    <Step Id="phys_opt_design"/>
+    <Step Id="route_design"/>
+    <Step Id="post_route_phys_opt_design"/>
+    <Step Id="write_bitstream"/>
+  </Strategy>
+</GenRun>

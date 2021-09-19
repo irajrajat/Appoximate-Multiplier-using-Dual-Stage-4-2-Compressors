@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="MULTIPLIER8X82_behav.wdb" id="1">
+         <top_modules>
+            <top_module name="MULTIPLIER8X82" />
+            <top_module name="glbl" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <WVObjectSize size="6" />
+   <wvobject db_ref_id="1" fp_name="/MULTIPLIER8X82/a" type="array">
+      <obj_property name="ElementShortName">a[7:0]</obj_property>
+      <obj_property name="ObjectShortName">a[7:0]</obj_property>
+      <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject db_ref_id="1" fp_name="/MULTIPLIER8X82/b" type="array">
+      <obj_property name="ElementShortName">b[7:0]</obj_property>
+      <obj_property name="ObjectShortName">b[7:0]</obj_property>
+      <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject db_ref_id="1" fp_name="/MULTIPLIER8X82/x" type="array">
+      <obj_property name="ElementShortName">x[16:0]</obj_property>
+      <obj_property name="ObjectShortName">x[16:0]</obj_property>
+      <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject db_ref_id="1" fp_name="/MULTIPLIER8X82/p" type="array">
+      <obj_property name="ElementShortName">p[63:0]</obj_property>
+      <obj_property name="ObjectShortName">p[63:0]</obj_property>
+   </wvobject>
+   <wvobject db_ref_id="1" fp_name="/MULTIPLIER8X82/s" type="array">
+      <obj_property name="ElementShortName">s[44:0]</obj_property>
+      <obj_property name="ObjectShortName">s[44:0]</obj_property>
+   </wvobject>
+   <wvobject db_ref_id="1" fp_name="/MULTIPLIER8X82/c" type="array">
+      <obj_property name="ElementShortName">c[42:0]</obj_property>
+      <obj_property name="ObjectShortName">c[42:0]</obj_property>
+   </wvobject>
+</wave_config>

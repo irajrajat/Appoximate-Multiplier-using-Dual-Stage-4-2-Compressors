@@ -1,0 +1,16 @@
+Determining compilation order of HDL files.
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Rajat Raj/Desktop/4th SEM Notes/Approximate Multiplier Design/CODE/compressor/project_2/project_2.srcs/sources_1/new/Adder32.v" into library xil_defaultlib
+ERROR: [VRFC 10-452] cannot open include file CLA/kpg.v [C:/Users/Rajat Raj/Desktop/4th SEM Notes/Approximate Multiplier Design/CODE/compressor/project_2/project_2.srcs/sources_1/new/Adder32.v:23]
+ERROR: [VRFC 10-452] cannot open include file CLA/ppc.v [C:/Users/Rajat Raj/Desktop/4th SEM Notes/Approximate Multiplier Design/CODE/compressor/project_2/project_2.srcs/sources_1/new/Adder32.v:24]
+INFO: [VRFC 10-311] analyzing module CLA2
+ERROR: [VRFC 10-1040] module CLA2 ignored due to previous errors [C:/Users/Rajat Raj/Desktop/4th SEM Notes/Approximate Multiplier Design/CODE/compressor/project_2/project_2.srcs/sources_1/new/Adder32.v:25]
+INFO: [VRFC 10-311] analyzing module CLA4
+ERROR: [VRFC 10-1040] module CLA4 ignored due to previous errors [C:/Users/Rajat Raj/Desktop/4th SEM Notes/Approximate Multiplier Design/CODE/compressor/project_2/project_2.srcs/sources_1/new/Adder32.v:44]
+INFO: [VRFC 10-311] analyzing module Adder4
+ERROR: [VRFC 10-1040] module Adder4 ignored due to previous errors [C:/Users/Rajat Raj/Desktop/4th SEM Notes/Approximate Multiplier Design/CODE/compressor/project_2/project_2.srcs/sources_1/new/Adder32.v:65]
+INFO: [VRFC 10-311] analyzing module Adder8
+ERROR: [VRFC 10-1040] module Adder8 ignored due to previous errors [C:/Users/Rajat Raj/Desktop/4th SEM Notes/Approximate Multiplier Design/CODE/compressor/project_2/project_2.srcs/sources_1/new/Adder32.v:85]
+INFO: [VRFC 10-311] analyzing module Adder16
+ERROR: [VRFC 10-1040] module Adder16 ignored due to previous errors [C:/Users/Rajat Raj/Desktop/4th SEM Notes/Approximate Multiplier Design/CODE/compressor/project_2/project_2.srcs/sources_1/new/Adder32.v:106]
+INFO: [VRFC 10-311] analyzing module Adder32
+ERROR: [VRFC 10-1040] module Adder32 ignored due to previous errors [C:/Users/Rajat Raj/Desktop/4th SEM Notes/Approximate Multiplier Design/CODE/compressor/project_2/project_2.srcs/sources_1/new/Adder32.v:130]
